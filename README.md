@@ -1,3 +1,52 @@
+# Português:
+# Controle de Mercearia com Excel
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/RiquelmoFerreira/Grocery_Store_Control_Excel/blob/main/License)
+
+# Sobre o projeto
+
+Esse projeto foi feito durante o treino prático do curso de Excel do Básico ao Avançado conduzido por João Paulo de Lira (Hashtag Programação) e o arquivo está disponível nas linguagens: Português (Controle_Mercado.xlsm) e Inglês (Grocery_Store_Control.xlsm)
+
+O objetivo desse projeto foi criar uma planilha de Controle de uma Mercearia para demonstrar o uso das fórmulas e conhecimentos no Excel do básico ao avançado.
+
+A planilha é dividida em:
+- Menu, com botões de link para as principais abas;
+- Despesas, com os valores das despesas da Mercearia;
+- Controle de Mercadorias, com um registro de mercadoria e com botões de Inserir Compra e Excluir Compra usando a função Macro;
+- Investimentos, com as informações do investimento na mercearia;
+- Controle de Estoque, com as informaçoes do estoque e sua Situação usando formatação condicional;
+- Resultados, com as informações gerais de receita, despesas e impostos;
+- Vendas, com o resultado de Vendas semanais, Resultados de Entregas e Quantidade de Vendas por Região, todos tópicos com gráficos;
+- Registro de Vendas de 5 Semanas do Mês, com botões de Excluir Registro, Novo Registro para compras de um novo cliente e Inserir Produto para adicionar mais um produto para um mesmo cliente, todos usando a função Macro;
+- Análise de todas semanas usando Tabelas Dinâmicas a primeira com informações da Data de Vendas do Produto, Quantidade de Produtos Vendidos, Soma do Valor Total e a segunda com informações da Vendas de Produtos por Região, Quantidade de Produtos Vendidos, Valor Total de Entrega e Soma do Valor Total;
+- Por fim a Aba Cálculo e Testes onde ficam as informações que alimentamos as tabelas usando a função PROCV e as Funções Correspondência e Índice. Se preferir você pode ocultar essa aba.
+
+## Visão Geral do Menu
+![VisaoLGeral](https://github.com/RiquelmoFerreira/Grocery_Store_Control_Excel/blob/main/Menu1.png)
+
+## Visão Geral do Aba Vendas da Semana 1
+![Vendas](https://github.com/RiquelmoFerreira/Grocery_Store_Control_Excel/blob/main/Vendas.png)
+
+# Tecnologias
+- Microsoft Excel
+
+# Rode o Projeto:
+## Pré-Requisitos:
+- Microsoft Excel 2016 ou superior
+
+## Como rodar:
+- Baixe o arquivo "Controle_Mercado.xlsm" no repositório
+- Aproveite o projeto
+
+## Compatibilidade:
+- Caso ocorra algum problema com os números pode ser por conta da Linguagem do seu Excel, no Brasil usamos vírgulas para separar o número das casas decimais e nos Estados Unidos se usa o ponto.
+
+# Autor
+## Riquelmo Afonso Avelar Ferreira
+
+https://www.linkedin.com/in/riquelmo-afonso-avelar-ferreira-df5183/
+
+#
+
 # English:
 # Grocery Store Control with Excel
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/RiquelmoFerreira/Grocery_Store_Control_Excel/blob/main/License)
@@ -45,51 +94,5 @@ The workbook is divided into:
 
 https://www.linkedin.com/in/riquelmo-afonso-avelar-ferreira-df5183/?locale=en_US
 #
-# Português:
-# Controle de Mercearia com Excel
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/RiquelmoFerreira/Grocery_Store_Control_Excel/blob/main/License)
-
-# Sobre o projeto
-
-Esse projeto foi feito durante o treino prático do curso de Excel do Básico ao Avançado conduzido por João Paulo de Lira (Hashtag Programação) e o arquivo está disponível nas linguagens: Português (Controle_Mercado.xlsm) e Inglês (Grocery_Store_Control.xlsm)
-
-O objetivo desse projeto foi criar uma planilha de Controle de uma Mercearia para demonstrar o uso das fórmulas e conhecimentos no Excel do básico ao avançado.
-
-A planilha é dividida em:
-- Menu, com botões de link para as principais abas;
-- Despesas, com os valores das despesas da Mercearia;
-- Controle de Mercadorias, com um registro de mercadoria e com botões de Inserir Compra e Excluir Compra usando a função Macro;
-- Investimentos, com as informações do investimento na mercearia;
-- Controle de Estoque, com as informaçoes do estoque e sua Situação usando formatação condicional;
-- Resultados, com as informações gerais de receita, despesas e impostos;
-- Vendas, com o resultado de Vendas semanais, Resultados de Entregas e Quantidade de Vendas por Região, todos tópicos com gráficos;
-- Registro de Vendas de 5 Semanas do Mês, com botões de Excluir Registro, Novo Registro para compras de um novo cliente e Inserir Produto para adicionar mais um produto para um mesmo cliente, todos usando a função Macro;
-- Análise de todas semanas usando Tabelas Dinâmicas a primeira com informações da Data de Vendas do Produto, Quantidade de Produtos Vendidos, Soma do Valor Total e a segunda com informações da Vendas de Produtos por Região, Quantidade de Produtos Vendidos, Valor Total de Entrega e Soma do Valor Total;
-- Por fim a Aba Cálculo e Testes onde ficam as informações que alimentamos as tabelas usando a função PROCV e as Funções Correspondência e Índice. Se preferir você pode ocultar essa aba.
-
-## Visão Geral do Menu
-![VisaoLGeral](https://github.com/RiquelmoFerreira/Grocery_Store_Control_Excel/blob/main/Menu1.png)
-
-## Visão Geral do Aba Vendas da Semana 1
-![Vendas](https://github.com/RiquelmoFerreira/Grocery_Store_Control_Excel/blob/main/Vendas.png)
-
-# Tecnologias
-- Microsoft Excel
-
-# Rode o Projeto:
-## Pré-Requisitos:
-- Microsoft Excel 2016 ou superior
-
-## Como rodar:
-- Baixe o arquivo "Controle_Mercado.xlsm" no repositório
-- Aproveite o projeto
-
-## Compatibilidade:
-- Caso ocorra algum problema com os números pode ser por conta da Linguagem do seu Excel, no Brasil usamos vírgulas para separar o número das casas decimais e nos Estados Unidos se usa o ponto.
-
-# Autor
-## Riquelmo Afonso Avelar Ferreira
-
-https://www.linkedin.com/in/riquelmo-afonso-avelar-ferreira-df5183/
 
 
